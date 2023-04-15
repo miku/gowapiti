@@ -3,7 +3,7 @@
     Copyright (c) 2009-2013  CNRS
     All rights reserved.
 
-For more detailed information see the [homepage](http://wapiti.limsi.fr).
+For more detailed information see the [homepage](https://wapiti.limsi.fr/).
 
 Wapiti is a very fast toolkit for segmenting and labeling sequences with
 discriminative models. It is based on maxent models, maximum entropy Markov
