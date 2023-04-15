@@ -31,3 +31,8 @@ clean:
 	@rm -f wapiti
 
 .PHONY: clean install
+
+# Go related
+
+gow: gow.go
+	go build -o gow gow.go
